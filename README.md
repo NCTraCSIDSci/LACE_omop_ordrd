@@ -68,6 +68,9 @@ The LACE indices produced in this code should be thought of as LACE index minimu
 ## Authors
 Nathan Foster and Josh Fuchs developed this code. 
 
+## Citing This Repo
+If you use this software in your work, please cite it using the CITATION.cff file or by clicking "Cite this repository" on the right. 
+
 ## Support
 The project described was supported by the National Center for Advancing Translational Sciences (NCATS), National Institutes of Health, through Grant Award Number UM1TR004406. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
 
